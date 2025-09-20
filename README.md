@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Telemedicine Platform Prototype
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# telemedicine
+>>>>>>> 75881fb1ac5549f5fb97005ac6eff8b6c1f5ca49
